@@ -1,0 +1,9 @@
+/* // Hide all elements  */
+body.barcode-scanner-active {
+  visibility: hidden;
+}
+
+/* // Show only the barcode scanner modal */
+.barcode-scanner-modal {
+  visibility: visible;
+}

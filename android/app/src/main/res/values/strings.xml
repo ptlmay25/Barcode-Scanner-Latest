@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">onew-barcode</string>
+    <string name="title_activity_main">onew-barcode</string>
+    <string name="package_name">com.onew.barcode</string>
+    <string name="custom_url_scheme">com.onew.barcode</string>
+</resources>

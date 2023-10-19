@@ -1,0 +1,8 @@
+{
+  "appId": "com.onew.barcode",
+  "appName": "onew-barcode",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
